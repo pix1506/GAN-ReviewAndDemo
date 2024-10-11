@@ -1,1 +1,1 @@
-# GAN-ReviewAndDemo
+# GAN原理與實作
